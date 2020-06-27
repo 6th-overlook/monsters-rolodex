@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+
+.search-box {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3vh;
+}
+
+.search-bar {
+    width: 50%;
+}

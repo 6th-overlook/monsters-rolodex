@@ -1,0 +1,15 @@
+@import '~antd/dist/antd.css';
+
+.title-pane {
+    text-align: center;
+}
+
+.title {
+    color: #338888;
+    font-family: 'Pangolin', cursive;
+    font-size: 72px;
+}
+
+.black-divider {
+    border-color: #339999;
+}
